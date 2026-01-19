@@ -1,4 +1,4 @@
-<h1>I'm Pierre, a <a href="https://linkedin.com/in/pierremcgheewilliams"> Aspiring Software Engineer | Learning Python and Git👾</a>
+<h1>I'm Pierre, a <a href="https://linkedin.com/in/pierremcgheewilliams"> Aspiring Software Engineer 🖥️| Learning Python and Git👾</a>
 </h1>
 
   - [My First Project](https://github.com/PierreMW/my-first-project]) 🚀 - Built with Python & Git 

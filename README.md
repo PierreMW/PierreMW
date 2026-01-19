@@ -1,15 +1,11 @@
 <h1>Hi, I'm Pierre, an <a href="https://linkedin.com/in/pierremcgheewilliams">Software Engineer</a>
 </h1>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>👨‍💻 Python Coding Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/pierremw/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/pierremw/osticket-install-configuration)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/pierremw/ticketlifecycles)
-- <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/pierremw/on-premisesactivedirectory)
-
+  - [Python Project: Basic Python Fuctioning]([https://github.com/PierreMW/my-first-project])
+ 
 
 <h2>🤳Connect with me:</h2>
 

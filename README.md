@@ -1,9 +1,6 @@
 <h1>Hi, I'm Pierre, an <a href="https://linkedin.com/in/pierremcgheewilliams">Software Engineer</a>
 </h1>
 
-<h2>👨‍💻 Python Coding Projects:</h2>
-
-- <b>osTicket (Help Desk Ticketing System)</b>
   - [Python Project: Basic Python Fuctioning]([https://github.com/PierreMW/my-first-project])
  
 

@@ -1,4 +1,4 @@
-<h1>Hi, I'm Pierre, a <a href="https://linkedin.com/in/pierremcgheewilliams"> Aspiring Software Engineer | Learning Python and Git 👾</a>
+<h1>Hi, I'm Pierre, a <a href="https://linkedin.com/in/pierremcgheewilliams"> Aspiring Software Engineer | Learning Python and Git👾</a>
 </h1>
 
   - [Python Project: Basic Python Fuctioning]([https://github.com/PierreMW/my-first-project])
